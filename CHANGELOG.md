@@ -1,4 +1,4 @@
-# Changelog
+-e # Changelog
 
-## v1.0.0
-- Initial release
+All notable changes documented here.
+
