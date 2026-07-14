@@ -1,3 +1,3 @@
-# Code of Conduct
+-e # Code of Conduct
 
-Be respectful and collaborative.
+Be respectful and inclusive.
