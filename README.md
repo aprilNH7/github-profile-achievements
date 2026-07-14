@@ -27,3 +27,6 @@ This repository showcases various projects and serves as a hub for GitHub profil
 - Node.js / MongoDB
 - AWS EC2 / PM2
 - Three.js / Framer Motion
+-e 
+## Security Policy
+All contributions are scanned for vulnerabilities.
